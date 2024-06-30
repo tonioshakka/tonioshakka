@@ -58,11 +58,11 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
 
 ## 📊 Statistiques GitHub
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tonioshakka&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonioshakka&layout=compact&theme=radical)
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonioshakka&show_icons=true&theme=radical" alt="Your Repository's Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonioshakka&layout=compact&theme=radical" alt="Top Langs">
+
   <img src="https://github.com/tonioshakka/img/blob/main/goku_dev_by_d4nijerez_dfcccgk-fullview.png" alt="Description de l'image">
 </p>
 
