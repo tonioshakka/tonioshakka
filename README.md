@@ -55,6 +55,6 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
 
 ## 📊 Statistiques GitHub
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=itsZed0&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tonioshakka&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonioshakka&layout=compact&theme=radical)
