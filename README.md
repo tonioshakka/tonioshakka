@@ -60,7 +60,7 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tonioshakka&show_icons=true&theme=radical" alt="Your Repository's Stats">
-  <br>
+  <br><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonioshakka&layout=compact&theme=radical" alt="Top Langs">
 
