@@ -1,5 +1,9 @@
 # 👋 Bonjour, je m'appelle Antonio Ehses !
 
+<p align="center">
+  <img src="URL_de_ton_image" alt="Texte alternatif">
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=itsZed0&color=blue)
 
 Bienvenue sur mon profil GitHub ! 
