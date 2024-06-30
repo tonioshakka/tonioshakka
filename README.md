@@ -1,7 +1,7 @@
 # 👋 Bonjour, je m'appelle Antonio Ehses !
 
 <p align="center">
-<img src="https://github.com/tonioshakka/img/blob/main/main-qimg-78fad88d63a0dcc9db8e07e1180df49f-pjlq.jpg)" alt="">
+  ![Description de l'image]([lien_vers_ton_image](https://github.com/tonioshakka/img/blob/main/main-qimg-78fad88d63a0dcc9db8e07e1180df49f-pjlq.jpg))
 </p>
 
 Bienvenue sur mon profil GitHub ! 
