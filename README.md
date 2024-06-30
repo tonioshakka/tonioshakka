@@ -1,10 +1,7 @@
 # 👋 Bonjour, je m'appelle Antonio Ehses !
 
-<p align="center">
-  <img src="[URL_de_ton_image]([https://qph.cf2.quoracdn.net/main-qimg-78fad88d63a0dcc9db8e07e1180df49f-pjlq](https://github.com/tonioshakka/img/blob/main/main-qimg-78fad88d63a0dcc9db8e07e1180df49f-pjlq.jpg))" alt="Texte alternatif">
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsZed0&color=blue)
+![Description de l'image](https://github.com/tonioshakka/img/blob/main/main-qimg-78fad88d63a0dcc9db8e07e1180df49f-pjlq.jpg))
 
 Bienvenue sur mon profil GitHub ! 
 
