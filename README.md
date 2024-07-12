@@ -68,5 +68,6 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
 </p>
 
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tonioshakka)
+![Profile Views](https://komarev.com/ghpvc/?username=tonioshakka)
+
 
