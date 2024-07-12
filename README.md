@@ -46,13 +46,14 @@ Un jeu de pierre-papier-ciseaux interactif développé en JavaScript. Défiez l'
 
 ## 🌐 Retrouvez-moi sur
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-ehses-b21a22295/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-ehses-b21a22295/)
 ---
+## 📫 Contactez-moi
+
 
 ## 📫 Contactez-moi
 
-Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.ehses@gmail.com](mailto:antonio.ehses@gmail.com).
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.ehses@gmail.com)
 
 ---
 
@@ -65,6 +66,13 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonioshakka&layout=compact&theme=radical" alt="Top Langs">
 
   <img src="https://github.com/tonioshakka/img/blob/main/goku_dev_by_d4nijerez_dfcccgk-fullview.png" alt="Description de l'image">
+
+  ## 🔧 Compétences Techniques
+
+- **Langages** : ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+- **Frameworks** : ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+- **Outils** : ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+
 </p>
 
 
