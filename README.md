@@ -48,8 +48,6 @@ Un jeu de pierre-papier-ciseaux interactif développé en JavaScript. Défiez l'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-ehses-b21a22295/)
 ---
-## 📫 Contactez-moi
-
 
 ## 📫 Contactez-moi
 
@@ -60,6 +58,11 @@ Un jeu de pierre-papier-ciseaux interactif développé en JavaScript. Défiez l'
 ## 📊 Statistiques GitHub
 
 <p align="center">
+
+  - **Langages** : ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+  - **Frameworks** : ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+  - **Outils** : ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+    
   <img src="https://github-readme-stats.vercel.app/api?username=Tonioshakka&show_icons=true&theme=radical" alt="Your Repository's Stats">
   <br><br><br>
 
@@ -69,9 +72,7 @@ Un jeu de pierre-papier-ciseaux interactif développé en JavaScript. Défiez l'
 
   ## 🔧 Compétences Techniques
 
-- **Langages** : ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-- **Frameworks** : ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-- **Outils** : ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+
 
 </p>
 
