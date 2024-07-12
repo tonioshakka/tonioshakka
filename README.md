@@ -67,3 +67,6 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter à [antonio.eh
   <img src="https://github.com/tonioshakka/img/blob/main/goku_dev_by_d4nijerez_dfcccgk-fullview.png" alt="Description de l'image">
 </p>
 
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tonioshakka)
+
